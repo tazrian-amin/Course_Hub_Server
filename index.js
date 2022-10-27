@@ -18,7 +18,7 @@ app.get('/course-categories', (req, res) => {
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
-    const categoryCourses = course.filter(n => n.category_id === id);
+    const categoryCourses = courses.filter(course => course.category_id === id);
     res.send(categoryCourses);
 });
 
@@ -28,7 +28,7 @@ app.get('/courses', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = course.find(n => n._id === id);
+    const selectedCourse = courses.find(course => course._id === id);
     res.send(selectedCourse);
 });
 
