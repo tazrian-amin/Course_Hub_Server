@@ -1,0 +1,146 @@
+[
+    {
+        "_id": "8a5c404fbd15261f11c23h7hw74ji9a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_enrolled": 481,
+        "title": "Computer Science",
+        "image_url": "https://rightquotes4all.com/wp-content/uploads/2022/03/computer-science.jpg",
+        "details": "The Bachelor of Science in Computer Science and Engineering (BSCSE) curricula are designed to provide the fundamental principles of engineering and science, and the broad based general education essentials to the continued professional growth of the typical graduates. The general objective of the BSCSE degree program is to prepare graduates to become successful in their chosen career paths. "
+    },
+    {
+        "_id": "8a5c404fbd15261f11c23h7hw74ji9b",
+        "category_id": "02",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_enrolled": 738,
+        "title": "Economics",
+        "image_url": "https://edurev.gumlet.io/ApplicationImages/Temp/8743297_b734464e-a8a6-42ed-9c00-04a4b31f57f1_lg.jpeg?w=360&dpr=2.6",
+        "details": "BS in Economics is a 120-credit hour program spreading over a period 4 years. These credits are divided into General Education, School and Discipline Requirements, and Free Electives. General education credits augment and round out the specialized training a student receives in economics and aim to cultivate a knowledgeable, informed, and literate human being. Free elective credits broaden a student’s horizon and provide her with a chance to pursue higher studies in other areas."
+    },
+    {
+        "_id": "8a5c404fbd15261f11c23h7hw74ji9c",
+        "category_id": "03",
+        "rating": {
+            "number": 4.1,
+            "badge": "Good"
+        },
+        "total_enrolled": 782,
+        "title": "Environmental Science",
+        "image_url": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/04/29203350/Environmental-Conservation.jpg",
+        "details": "The Department of Environmental Science and Management (ESM) currently offers a BS degree in Environmental Science and Environmental Management. Students from any background, i.e. science, arts or commerce, can be admitted to the programs depending on their line of education at the college level. The program is designed and aimed to build up students’ knowledge in all significant areas of environment, including students’ introduction to the recent global environmental issues. The state of programme that the department offers have similar program followed in reputed North American universities. Along with its similarity with universities, the program also focuses on local needs."
+    },
+    {
+        "_id": "8a5c404fbd15261f11c23h7hw74ji9d",
+        "category_id": "04",
+        "rating": {
+            "number": 3.5,
+            "badge": "Average"
+        },
+        "total_enrolled": 218,
+        "title": "History & Philosophy",
+        "image_url": "https://merlinccc.org/wp-content/uploads/2015/10/A-History-of-Western-Philosophy_Image.png",
+        "details": "In this department, the courses have been designed to promote knowledge in the domain of national and global history, along with the pursuit of developing the ethical and moral values of our students. Significant areas in the realm of history include national culture and heritage, the emergence of Bangladesh, world history, and civilization. The philosophy cluster focuses on business ethics, visionary thinking, and aspects of human psychology. Some full-time foreign faculty members had already served in the department, while two others are continuing. Besides classroom teaching, faculty members have been engaged in knowledge creation in their respective areas."
+    },
+    {
+        "_id": "8a5c404fbd15261f11c23h7hw74ji9e",
+        "category_id": "05",
+        "rating": {
+            "number": 3.9,
+            "badge": "Average"
+        },
+        "total_enrolled": 479,
+        "title": "Mathematics & Physics",
+        "image_url": "https://img.freepik.com/premium-vector/scientific-formulas-mathematics-physics-calculus-class-chalkboard-algebra-physical-science-handwritten-vector-education-concept-maths-calculation-blackboard-physics-science-theorem_102902-3239.jpg?w=2000",
+        "details": "Mathematics and Physics play an important role in understanding the fundamental laws of nature and it directly correlates the other fields of engineering and natural sciences. Understanding the importance and necessity of acquiring knowledge about the most exciting and interesting branch of science and engineering, Department of Mathematics and Physics belongs to the School of Engineering and Physical Sciences."
+    },
+    {
+        "_id": "8a5c404fbd15261f11c23h7hw74ji9f",
+        "category_id": "06",
+        "rating": {
+            "number": 4.3,
+            "badge": "Good"
+        },
+        "total_enrolled": 508,
+        "title": "English & Modern Languages",
+        "image_url": "https://www.cpp.edu/class/english-modern-languages/img/banner-eml-word-art.jpg",
+        "details": "The Department of English & Modern Languages offers undergraduate as well as graduate programs in English and provides students with the opportunity to develop their understanding of the language and its teaching, to know and appreciate both seminal and creative works in language and literature, and also to develop literary and academic aptitudes of their own. Majors offered by the English department at the undergraduate level are widely recognized. They prepare students to engage in many fields, including graduate degrees in teaching, journalism, information technology, management, law and administration, as well as more language-focused fields like creative writing and translation."
+    },
+    {
+        "_id": "1a5c404fbd15261f11c23h7hw74ji9a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "total_enrolled": 622,
+        "title": "Electrical & Electronics",
+        "image_url": "https://www.collegechalo.com/news/wp-content/uploads/2021/12/Electronics-Engineering.jpg",
+        "details": "The Bachelor of Science in Electrical and Electronic Engineering (BSEEE) curricula are designed to provide the fundamental principles of engineering and science, and the broad based general education essentials to the continued professional growth of the typical graduates. The general objective of the BSEEE degree program is to prepare graduates to become successful in their chosen career paths."
+    },
+    {
+        "_id": "2a5c404fbd15261f11c23h7hw74ji9a",
+        "category_id": "03",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "total_enrolled": 528,
+        "title": "Biochemistry and Microbiology",
+        "image_url": "http://photos.demandstudios.com/getty/article/178/93/200309854-001.jpg",
+        "details": "The mission of this department is to provide programs composed of courses which are structured to equip students with a solid foundation in the biological sciences, alongside training them at the forefront of research.  The department aims to develop the leadership quality in the students with a vision and capacity to carry out the mission, and make a significant difference locally and globally in the field of biological science."
+    },
+    {
+        "_id": "3a5c404fbd15261f11c23h7hw74ji9a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_enrolled": 744,
+        "title": "Architecture",
+        "image_url": "https://www.ndesconstruction.com/images/architecture-design/1.jpg",
+        "details": "The Department of Architecture provides access to materials, advanced technology, a dedicated architectural library and workshop and the most highly qualified faculty to guide the studios and develop the philosophical core of the discipline, the school remains loyal to its motto of simplicity and practicality. Thus the carefully choreographed journey through experimentation and self-discovery inherent in architectural education is punctuated here with study tours, lectures and seminars with experienced practitioners, workshops and hands on experiences to connect the students to the ground realities."
+    },
+    {
+        "_id": "4a5c404fbd15261f11c23h7hw74ji9a",
+        "category_id": "04",
+        "rating": {
+            "number": 4.0,
+            "badge": "Good"
+        },
+        "total_enrolled": 400,
+        "title": "Law",
+        "image_url": "https://institute.careerguide.com/wp-content/uploads/2020/06/20150929184415-law-and-justice-patent.jpeg",
+        "details": "The Department of Law strives to produce the next generation of Bangladesh’s most influential lawyers, judges, scholars, and activists. It  is about much more than just learning the letter of the law. Great emphasis is placed on developing the students’ ability to analyze laws, develop an argument, communicate clearly, work as a team, and learn independently. Students are also taught to think critically about the current workings of the justice system and identify potential areas for reform."
+    },
+    {
+        "_id": "5a5c404fbd15261f11c23h7hw74ji9a",
+        "category_id": "02",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_enrolled": 865,
+        "title": "Accounting & Finance",
+        "image_url": "http://online.hbs.edu/Style%20Library/api/resize.aspx?imgpath=/PublishingImages/Finance%20Versus%20Accounting.png&w=1200&h=630",
+        "details": "The Department of Accounting & Finance currently offers BBA degrees Major in Accounting and Finance. The department presently offers BBA, MBA, and EMBA degrees majoring in Accounting, and Finance.It has 37 full-time faculty members and 6 part-time faculty members. Several other faculty members are on study leave. Our faculty members are highly qualified, and possess doctoral and/or master’s degree from USA, UK, Canada, and Australia."
+    },
+    {
+        "_id": "6a5c404fbd15261f11c23h7hw74ji9a",
+        "category_id": "03",
+        "rating": {
+            "number": 4.2,
+            "badge": "Good"
+        },
+        "total_enrolled": 382,
+        "title": "Pharmaceutical Sciences",
+        "image_url": "https://www.science.org/do/10.1126/webinar.2448836/abs/0219Olink3_16x9_v1.jpg",
+        "details": "The Department of Pharmaceutical Sciences is running one undergraduate program (Bachelor of Pharmacy Professional) and two graduate programs (Master of Pharmacy in PCP and Master of Pharmacy in PTB). Our students have the opportunity to attend lecturers in modern classrooms, study in rich and digital libraries, do research in state-of-the-art laboratories, enjoy the campus life with diverse extracurricular activities, and prepare themselves for a bright future in the ever competitive world."
+    }
+]

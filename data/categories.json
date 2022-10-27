@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Engineering & IT"
+    },
+    {
+        "id": "02",
+        "name": "Business & Economics"
+    },
+    {
+        "id": "03",
+        "name": "Health & Life Sciences"
+    },
+    {
+        "id": "04",
+        "name": "Humanities & Social Sciences"
+    },
+    {
+        "id": "05",
+        "name": "Physical Sciences"
+    },
+    {
+        "id": "06",
+        "name": "Linguistics"
+    }
+]
